@@ -111,7 +111,7 @@ Without reflection:
 -  
 
 ### ❗ Mistakes I Personally Made
--  
+-  I spend a whole night learning this sh*t
 -  
 
 ### 🧪 Questions to Revisit Later
